@@ -1,1 +1,1 @@
-This is a sample text file for GitHub tutorial.
+This is a sample text file for GitHub tutorial
