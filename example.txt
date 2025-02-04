@@ -1,2 +1,5 @@
+feature
 This is a sample text file for GitHub tutorial.
 Added a new feature in this branch.
+This is a sample text file for GitHub tutorial
+main
